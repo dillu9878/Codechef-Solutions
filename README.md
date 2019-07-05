@@ -1,2 +1,2 @@
 # Codechef
-This repositry contains source code Codechef Contest <a href='https://www.codechef.com/contests/'>Codechef</a>
+This repositry contains source code <a href='https://www.codechef.com/contests/'>Codechef Contest</a>
